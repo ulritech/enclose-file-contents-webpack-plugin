@@ -1,0 +1,24 @@
+{
+  "name": "enclose-file-contents-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin that enables wrapping a file contents with arbitrary text.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ulritech/enclose-file-contents-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "ulritech",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "peerDependencies": {
+    "webpack": "1.x"
+  }
+}
